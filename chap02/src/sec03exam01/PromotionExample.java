@@ -19,6 +19,7 @@ public class PromotionExample {
 		
 		longValue = 100;
 		float floatValue = longValue;
+		//hello
 		System.out.println("floatValue: " + floatValue);
 		
 		floatValue = 100.5f;
