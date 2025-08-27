@@ -12,17 +12,14 @@ public class PromotionExample {
 		System.out.println("가의 유니코드: " + intValue);
 		
 		intValue = 50;
-		float floatValue = intValue;
-		System.out.println("longValue: " + intValue);
-		
-		
+		long longValue = intValue;;
+		System.out.println("longValue: " + longValue);
 		
 		longValue = 100;
 		float floatValue = longValue;
-		//hello
 		System.out.println("floatValue: " + floatValue);
 		
-		floatValue = 100.5f;
+		floatValue = 100.5F;
 		double doubleValue = floatValue;
 		System.out.println("doubleValue: " + doubleValue);
 	}
