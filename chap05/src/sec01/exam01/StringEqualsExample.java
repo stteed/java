@@ -1,6 +1,6 @@
-package sec03exam01;
+package sec01.exam01;
 
-public class PromotionExample {
+public class StringEqualsExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
