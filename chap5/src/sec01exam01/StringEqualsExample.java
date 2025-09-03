@@ -1,4 +1,4 @@
-package cec01.exam01;
+package sec01exam01;
 
 public class StringEqualsExample {
 
