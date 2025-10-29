@@ -7,5 +7,4 @@ public class Main {
 		Cat C = new Cat();
 		Cow O = new Cow();
 	}
-
 }
